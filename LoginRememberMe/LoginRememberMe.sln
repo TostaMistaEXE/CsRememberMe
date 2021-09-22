@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginRememberMe", "LoginRememberMe\LoginRememberMe.csproj", "{85E563CD-E41A-4FD5-A688-3A2EBE90D9EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85E563CD-E41A-4FD5-A688-3A2EBE90D9EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85E563CD-E41A-4FD5-A688-3A2EBE90D9EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85E563CD-E41A-4FD5-A688-3A2EBE90D9EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85E563CD-E41A-4FD5-A688-3A2EBE90D9EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62DC4898-C35A-4354-8588-FDDC4F86D435}
+	EndGlobalSection
+EndGlobal

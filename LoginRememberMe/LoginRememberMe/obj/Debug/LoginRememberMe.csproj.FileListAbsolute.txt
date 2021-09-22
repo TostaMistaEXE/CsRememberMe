@@ -1,0 +1,10 @@
+C:\Users\Tostas\source\repos\LoginRememberMe\LoginRememberMe\bin\Debug\LoginRememberMe.exe.config
+C:\Users\Tostas\source\repos\LoginRememberMe\LoginRememberMe\bin\Debug\LoginRememberMe.exe
+C:\Users\Tostas\source\repos\LoginRememberMe\LoginRememberMe\bin\Debug\LoginRememberMe.pdb
+C:\Users\Tostas\source\repos\LoginRememberMe\LoginRememberMe\obj\Debug\LoginRememberMe.csproj.AssemblyReference.cache
+C:\Users\Tostas\source\repos\LoginRememberMe\LoginRememberMe\obj\Debug\LoginRememberMe.Form1.resources
+C:\Users\Tostas\source\repos\LoginRememberMe\LoginRememberMe\obj\Debug\LoginRememberMe.Properties.Resources.resources
+C:\Users\Tostas\source\repos\LoginRememberMe\LoginRememberMe\obj\Debug\LoginRememberMe.csproj.GenerateResource.cache
+C:\Users\Tostas\source\repos\LoginRememberMe\LoginRememberMe\obj\Debug\LoginRememberMe.csproj.CoreCompileInputs.cache
+C:\Users\Tostas\source\repos\LoginRememberMe\LoginRememberMe\obj\Debug\LoginRememberMe.exe
+C:\Users\Tostas\source\repos\LoginRememberMe\LoginRememberMe\obj\Debug\LoginRememberMe.pdb
